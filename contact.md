@@ -1,6 +1,6 @@
 # Contact Us
 
-If you are in need of help applying, are interested in supporting the fellowship, or have any other questions, please contact:
+If you have any questions about applying, are interested in supporting the fellowship, or have any suggestions for us, you can reach us at:
 
 - Talia Ringer [tringer@illinois.edu](mailto:tringer@illinois.edu)
 
