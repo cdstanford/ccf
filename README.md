@@ -2,16 +2,17 @@
 
 Source code for the Computing Connections Fellowship website.
 
-## To build the site locally
+## To preview the site locally
 
 Inside this directory, run
 ```bash
 bundle install
 bundle exec github-pages --help
-bundle exec github-pages build
+bundle exec jekyll --help
+bundle exec jekyll serve
 ```
 
-This builds the site to `_site/`. The `github-pages` gem doesn't have a serve option, so to serve locally one is suppose to use [Jekyll](https://jekyllrb.com/) directly: `bundle exec jekyll serve`. However Jeykll isn't working for me at the moment on my M1 mac so I just view the files under `_site/` instead and publish when I need to see the changes live.
+Alternatively, to build the site without serving it to `_site/`, run `bundle exec github-pages build` or `bundle exec jekyll build`.
 
 ## Source
 
