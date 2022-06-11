@@ -1,3 +1,3 @@
 # Donors
 
-We are grateful to our existing donors for generous support which has made the fellowship possible!
+We are grateful to our donors for generous support which makes our fellowship possible!
