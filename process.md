@@ -15,12 +15,4 @@ Applications are assessed by the [selection committee](people) on a rolling basi
 
 ## Support Offered
 
-There are two different potential categories of funding depending on need: partial and full.
-
-### Partial Funding
-
-Partial funding is useful when the advisor supports the move and is willing to continue funding the student, but the student has an urgent need to escape. In this case, the funding should cover the costs of travel, and in some situations help cover the cost of living in a second place (as it is not always possible to break a lease or sublet while you're in another area). In the ideal scenario where ample funding exists, helping with incidental costs would also be beneficial.
-
-### Full Funding
-
-Full funding is useful when the advisor will cut off funding for the student if the student flees. Advisor abuse is the main use case here, though an unsupportive advisor coupled with outside sources of abuse can function similarly. In this case, the above costs may exist, but the student may also have no additional source of income. This can be prohibitive for some students, thereby forcing them to stay in dangerous situations for fear of losing income. The ideal is a full RAship or internship for a semester to a year.
+There are two different potential categories of funding depending on need: partial and full. Partial funding supports needs like travel, housing, and other incidental costs; full funding additionally supports the student for an RAship. Eligibility for these categories depends on student circumstances and need, as well as funding availability.
