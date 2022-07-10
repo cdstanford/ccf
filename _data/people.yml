@@ -1,0 +1,36 @@
+- name: Caleb Stanford
+  img: caleb.jpg
+  email: castan at cis.upenn.edu
+  website: https://cis.upenn.edu/~castan/
+  topics: Student-advisor relationships, department climate, mental health, student activism
+  status: current
+- name: James Wilcox
+  img: james.jpg
+  email: jrw12 at cs.washington.edu
+  website: https://jamesrwilcox.com
+  topics: Mental health, working with external collaborators, professional networking, putting the "community" in "research community", advice on taking advice
+  status: current
+- name: Mae Milano
+  img: mae.png
+  email: mpmilano at berkeley.edu
+  website: http://www.languagesforsyste.ms/
+  topics: Gender diversity, department climate, transphobia/queerphobia, student activism, advisor relationships, sexism/misogyny
+  status: current
+- name: Stephanie Weirich
+  img: stephanie.jpg
+  email: sweirich at seas.upenn.edu
+  website: https://www.seas.upenn.edu/~sweirich/
+  topics: Any topic
+  status: current
+- name: Sukyoung Ryu
+  img: sukyoung.png
+  email: sryu.cs at kaist.ac.kr
+  website: https://plrg.kaist.ac.kr/ryu
+  topics: Any topic
+  status: current
+- name: Valentin Churavy
+  img: valentin.jpg
+  email: vchuravy at mit.edu
+  website: https://vchuravy.dev
+  topics: Student-advisor relationships, navigating academia, work-life balance, mental health, student-institute relationships
+  status: current

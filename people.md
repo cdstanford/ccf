@@ -6,6 +6,13 @@
 
 ## Selection Committee
 
-We are in the process of forming a selection committee to evaluate applications confidentially. We are looking for trusted and reputable community members who are interested in the mission of the program, have diverse experiences and backgrounds, and are sensitive and receptive to student needs and concerns.
+{% for p in site.data.people %}
+{% if p.status == "current" %}
+{% include person.html name=p.name img=p.img email=p.email website=p.website topics=p.topics %}
+{% endif %}
+{% endfor %}
 
-We welcome nominations! Please submit them using [this form](https://forms.gle/rqBME3Abmm59dtXX8).
+## Volunteering
+
+We are generally looking for trusted and reputable community members who are interested in the mission of the program, have diverse and relevant experiences, and are sensitive and receptive to student needs and concerns.
+If you are interested in getting involved, please [contact us](contact).
