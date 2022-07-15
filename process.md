@@ -2,7 +2,7 @@
 
 ## Eligibility
 
-To be eligible, applicants should be PhD students in programming languages or a closely related area. Beyond these basic criteria, eligibility for the program is evaluated based on:
+To be eligible, applicants should be PhD students in programming languages or a closely related area. Applicants should also be 18 years or older. Beyond these basic criteria, eligibility for the program is evaluated based on:
 - **Environmental need:** The current environment (research, home, etc.) is unsafe or unhealthy for the student. Examples of situations that may foster unsafe or unhealthy environments include any form of abuse, bullying, harassment, discrimination, trauma, or loss, or any other circumstance that makes it difficult or impossible for the student to work effectively in their current environment. This list is non-exhaustive and the committee has the discretion to determine any situation to be unsafe or unhealthy.
 - **Interest:** The student is interested in a temporary research visit at another institution, as part of the fellowship.
 - **Financial need:** The student does not have access to an alternative source of funding (for example, funding from their own institution) for such a temporary research visit.
