@@ -1,14 +1,36 @@
 # People
 
-**President:** [Talia Ringer](https://dependenttyp.es/) [tringer@illinois.edu](mailto:tringer@illinois.edu) (assistant professor at UIUC)
+## President
 
-**Vice president:** [Caleb Stanford](https://www.cis.upenn.edu/~castan/) [castan@cis.upenn.edu](mailto:castan@cis.upenn.edu) (incoming assistant professor at UC Davis)
+{% for p in site.data.people %}
+{% if p.position == "President" %}
+{% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
+{% endif %}
+{% endfor %}
+
+## Vice President
+
+### and Selection Committee Chair
+
+{% for p in site.data.people %}
+{% if p.position == "Vice President" %}
+{% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
+{% endif %}
+{% endfor %}
 
 ## Selection Committee
 
 {% for p in site.data.people %}
-{% if p.status == "current" %}
+{% if p.position == "Selection Committee" %}
 {% include person.html name=p.name img=p.img email=p.email website=p.website topics=p.topics %}
+{% endif %}
+{% endfor %}
+
+## Host Matching Committee
+
+{% for p in site.data.people %}
+{% if p.position == "Host Matching" %}
+{% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
 {% endif %}
 {% endfor %}
 

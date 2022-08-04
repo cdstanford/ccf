@@ -1,13 +1,19 @@
 <p>
 <img src="img/{{ include.img }}" title="{{ include.name }}" alt="{{ include.name }} image" height="150px" style="float: left; margin-right: 30px;"/>
-{% if include.website != null %}
+  {% if include.website != null %}
   <a href="{{ include.website }}">{{ include.name }}</a>
   {% else %}
   {{ include.name }}
   {% endif %}
+  {% if include.about != null %}
+  <br/><br/>
+  {{ include.about }}
+  {% endif %}
 <br/><br/>
   <b>Email:</b> {{ include.email }}
-<br/><br/>
+  {% if include.topics != null %}
+  <br/><br/>
   <b>Topics:</b> {{ include.topics }}
+  {% endif %}
 <br/><br clear="left"/>
 </p>
