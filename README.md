@@ -4,15 +4,19 @@ Source code for the Computing Connections Fellowship website.
 
 ## To preview the site locally
 
-Inside this directory, run
+Inside this directory, run:
 ```bash
 bundle install
-bundle exec github-pages --help
-bundle exec jekyll --help
 bundle exec jekyll serve
 ```
 
-Alternatively, to build the site without serving it to `_site/`, run `bundle exec github-pages build` or `bundle exec jekyll build`.
+For help:
+```bash
+bundle exec github-pages --help
+bundle exec jekyll --help
+```
+
+To build the site without serving it to `_site/`, run `bundle exec github-pages build` or `bundle exec jekyll build`.
 
 ## Source
 
