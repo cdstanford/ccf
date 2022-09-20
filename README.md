@@ -1,6 +1,6 @@
 # ccf
 
-Source code for the Computing Connections Fellowship website.
+Source code for the [Computing Connections Fellowship website](https://computingconnections.org/).
 
 ## To preview the site locally
 
