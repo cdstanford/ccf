@@ -9,3 +9,5 @@
 - In addition to the application, you may optionally provide [Supporting Information](https://forms.gle/ptsE3VYhC8WyCWSMA).
 
 Please note that all of the above forms are strictly confidential to the selection committee.
+
+A Google login is currently required for the application and supporting information forms; this allows those forms to collect file uploads.
