@@ -6,5 +6,5 @@ Our [selection process](process) is publicly available and details more about th
 
 The CCF is registered as a designated fund under the [Philanthropic Ventures Foundation](https://www.venturesfoundation.org/donors/designated-funds/), a 501(c)(3) public charity in the United States, founded in 1991. To read more, see [the PVF website](https://www.venturesfoundation.org/).
 
-CCF would not be possible without the generous support of the Anonymous.
-We are grateful to them and to all of our [donors](donors)!
+CCF would not be possible without the generous support of the Anonymous,
+Stability AI, and all of our wonderful [donors](donors)!
