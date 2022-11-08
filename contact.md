@@ -4,4 +4,4 @@ If you have any questions about applying, are interested in supporting the fello
 
 - Talia Ringer [tringer@illinois.edu](mailto:tringer@illinois.edu)
 
-- Caleb Stanford [castan@cis.upenn.edu](mailto:castan@cis.upenn.edu)
+- Caleb Stanford [cdstanford@ucdavis.edu](mailto:cdstanford@ucdavis.edu)
