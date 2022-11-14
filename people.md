@@ -34,6 +34,14 @@
 {% endif %}
 {% endfor %}
 
+## Treasurer
+
+{% for p in site.data.people %}
+{% if p.position == "Treasurer" %}
+{% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
+{% endif %}
+{% endfor %}
+
 ## Volunteering
 
 We are generally looking for trusted and reputable community members who are interested in the mission of the program, have diverse and relevant experiences, and are sensitive and receptive to student needs and concerns.
