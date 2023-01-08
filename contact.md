@@ -2,6 +2,8 @@
 
 If you have any questions about applying, are interested in supporting the fellowship, or have any suggestions for us, you can reach us at:
 
-- Talia Ringer [tringer@illinois.edu](mailto:tringer@illinois.edu)
+{% assign talia = site.data.people[0] %}
+- Talia Ringer: {{ talia.email }}
 
-- Caleb Stanford [cdstanford@ucdavis.edu](mailto:cdstanford@ucdavis.edu)
+{% assign caleb = site.data.people[1] %}
+- Caleb Stanford: {{ caleb.email }}
