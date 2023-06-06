@@ -12,7 +12,7 @@
 
 {% for p in site.data.people %}
 {% if p.position == "Selection Committee Chair" %}
-{% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
+{% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about topics=p.topics %}
 {% endif %}
 {% endfor %}
 
