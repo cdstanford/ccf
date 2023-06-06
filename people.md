@@ -8,12 +8,10 @@
 {% endif %}
 {% endfor %}
 
-## Vice President
-
-### and Selection Committee Chair
+## Selection Committee Chair
 
 {% for p in site.data.people %}
-{% if p.position == "Vice President" %}
+{% if p.position == "Selection Committee Chair" %}
 {% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
 {% endif %}
 {% endfor %}
@@ -30,6 +28,14 @@
 
 {% for p in site.data.people %}
 {% if p.position == "Host Matching" %}
+{% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
+{% endif %}
+{% endfor %}
+
+## Vice President
+
+{% for p in site.data.people %}
+{% if p.position == "Vice President" %}
 {% include person.html name=p.name img=p.img email=p.email website=p.website about=p.about %}
 {% endif %}
 {% endfor %}
